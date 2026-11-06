@@ -1,0 +1,7 @@
+# Example Terraform Variables
+# Copy this file to 'terraform.tfvars' and replace with your desired values.
+
+location             = "East US"
+resource_group_name  = "rg-dev-azure-infra"
+storage_account_name = "stdevazureinfra001"
+
